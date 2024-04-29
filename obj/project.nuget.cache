@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDpixOV19UlXOyaAKoyb3kXIFZRj7iqvvA5dFTs+MOXHYofC6pjLKsobfvDScPRuTf52pPKil3KxPM2C4vqqRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhjan\\homework6-jinhyukj\\Homework6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhjan\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
